@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "animal_hospital\\x64\\Debug\\main.obj",
+            "outputs": [
+                "animal_hospital\\x64\\Debug\\main.cpp.obj.dt.module.json",
+                "animal_hospital\\x64\\Debug\\main.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
